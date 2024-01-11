@@ -17,6 +17,6 @@
 - 댓글 작성하기: `/article/{:articleId}/comment/`
 - 댓글 삭제하기: `/article/{:articleId}/comment/{:commentId}/delete/`
 
-### 4. JPA
+### 3. JPA
 JPA - Hibernate를 사용하여 jpa.hiberante.ddl-auto: update로 설정되어 있어
 jpa.hiberante.ddl-auto: create로 변경해야 합니다.
